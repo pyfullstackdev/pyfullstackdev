@@ -62,10 +62,6 @@
 <img src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.3c5441fc7a190fb1800d4a5c7f07ba4b1345a9c8.svg" alt="tailwindcss" height="64" width="64">
 </a>
 
-<a href="https://ionicframework.com">
-<img src="https://ionic.io/_next/image?url=https%3A%2F%2Fimages.prismic.io%2Fionicframeworkcom%2Fac68e1d9-9887-4e5a-9820-9290d06638de_ionic%2Blogo%2Bwhite%2Bon%2Bblue.png&w=128&q=75" alt="ionic" height="64" width="64">
-</a>
-
 <a href="https://docs.python.org">
 <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-64.png" alt="python" height="64" width="64">
 </a>
