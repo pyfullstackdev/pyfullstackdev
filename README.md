@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning **Django, FastAPI, React.js, Vue.js**
 - 🧑‍💻️ I code with **Python, SQL, HTML5, CSS3, JavaScript, TypeScript**
 - 💬 Ask me about **Python, PostgreSQL, Django, JavaScript, TypeScript, React.js, Docker**
-- 💞️ I'm looking to collaborate as Junior Full-Stack Developer
+- 💞️ I'm looking to collaborate as **Junior Full-Stack Developer**
 - 📫 How to reach me [sh.baxtiyorov.2004@gmail.com](mailto:sh.baxtiyorov.2004@gmail.com)
 - ⚡ Fun fact: Did you know that Python was named after the British comedy group Monty Python? Guido van Rossum, the
   creator of Python, was a big fan of their TV show.
