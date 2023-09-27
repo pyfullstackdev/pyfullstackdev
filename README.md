@@ -147,7 +147,7 @@
 </a>
 
 <a href="https://www.jetbrains.com/pycharm/">
-<img src="https://blog.skillfactory.ru/wp-content/uploads/2023/02/pycharm_icon.svg-6137743.png.webp" alt="pycharm" height="64" width="64">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/1200px-PyCharm_Icon.svg.png" alt="pycharm" height="64" width="64">
 </a>
 
 <a href="https://www.qt.io">
