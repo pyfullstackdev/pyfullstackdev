@@ -1,18 +1,15 @@
-# 👋 Hi, I’m Shahriyor (@pyfullstackdev)
-
-----------------------------------------
+# 👋 Hi there, I’m Shahriyor (@pyfullstackdev)
 
 ## About me
 
 - 🔭 I'm currently working on **Open-Source Projects, Scalable Web-Apps**
-- 🧠 I’m interested in **Coding, Listening Music, Playing Chess, Reading Book**
 - 🌱 I’m currently learning **Django, FastAPI, Flask, React.js, Next.js, Vue.js, Nuxt.js**
-- 🧑‍💻️ I code with **Python, SQL, HTML5, CSS3, JavaScript, TypeScript**
-- 💬 Ask me about **Python, PostgreSQL, Django, FastAPI, Flask, JavaScript, TypeScript, React.js, Next.js, Vue.js, Nuxt.js, Docker**
 - 💞️ I'm looking to collaborate as **Middle Full-Stack Developer**
+- 🧠 I’m interested in **Coding, Listening Music, Playing Chess, Reading Book**
+- 💬 Ask me about **Python, PostgreSQL, Django, FastAPI, Flask, JavaScript, TypeScript, React.js, Next.js, Vue.js, Nuxt.js, Docker**
+- 🧑‍💻️ I code with **Python, SQL, HTML5, CSS3, JavaScript, TypeScript**
 - 📫 How to reach me [sh.baxtiyorov.2004@gmail.com](mailto:sh.baxtiyorov.2004@gmail.com)
-- ⚡ Fun fact: Did you know that Python was named after the British comedy group Monty Python? Guido van Rossum, the
-  creator of Python, was a big fan of their TV show.
+- ⚡ Fun fact: Did you know that Python was named after the British comedy group Monty Python? Guido van Rossum, the creator of Python, was a big fan of their TV show.
 
 ### Backend
 
@@ -120,6 +117,10 @@
 
 <a href="https://tailwindcss.com" target="_blank">
   <img src="./icons/frontend/tailwindcss.png" alt="" height="32px" width="32px">
+</a>
+
+<a href="https://firebase.google.com" target="_blank">
+  <img src="./icons/frontend/firebase.png" alt="" height="32px" width="32px">
 </a>
 
 <a href="https://vitejs.dev" target="_blank">
