@@ -36,27 +36,27 @@
   <img src="./icons/backend/celery.png" alt="" height="32px" width="32px">
 </a>
 
-<a href="" target="_blank">
+<a href="https://www.rabbitmq.com" target="_blank">
   <img src="./icons/backend/rabbitmq.png" alt="" height="32px" width="32px">
 </a>
 
-<a href="" target="_blank">
+<a href="https://www.elastic.co/elasticsearch" target="_blank">
   <img src="./icons/backend/elasticsearch.png" alt="" height="32px" width="32px">
 </a>
 
-<a href="" target="_blank">
+<a href="https://graphql.org" target="_blank">
   <img src="./icons/backend/graphql.png" alt="" height="32px" width="32px">
 </a>
 
-<a href="" target="_blank">
+<a href="https://python-poetry.org" target="_blank">
   <img src="./icons/backend/poetry.png" alt="" height="32px" width="32px">
 </a>
 
-<a href="" target="_blank">
+<a href="https://www.postman.com" target="_blank">
   <img src="./icons/backend/postman.png" alt="" height="32px" width="32px">
 </a>
 
-<a href="" target="_blank">
+<a href="https://www.jetbrains.com/pycharm/" target="_blank">
   <img src="./icons/backend/pycharm.png" alt="" height="32px" width="32px">
 </a>
 
@@ -122,23 +122,23 @@
   <img src="./icons/frontend/tailwindcss.png" alt="" height="32px" width="32px">
 </a>
 
-<a href="" target="_blank">
+<a href="https://vitejs.dev" target="_blank">
   <img src="./icons/frontend/vite.png" alt="" height="32px" width="32px">
 </a>
 
-<a href="" target="_blank">
+<a href="https://webpack.js.org" target="_blank">
   <img src="./icons/frontend/webpack.png" alt="" height="32px" width="32px">
 </a>
 
-<a href="" target="_blank">
+<a href="https://www.npmjs.com" target="_blank">
   <img src="./icons/frontend/npm.png" alt="" height="32px" width="32px">
 </a>
 
-<a href="" target="_blank">
+<a href="https://yarnpkg.com" target="_blank">
   <img src="./icons/frontend/yarn.png" alt="" height="32px" width="32px">
 </a>
 
-<a href="" target="_blank">
+<a href="https://code.visualstudio.com" target="_blank">
   <img src="./icons/frontend/vscode.png" alt="" height="32px" width="32px">
 </a>
 
